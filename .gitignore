@@ -1,0 +1,12 @@
+# Ignore build output
+/build/
+/dist/
+
+/nbproject/private/
+/nbproject/Makefile-*
+
+*.class
+*.log
+
+.DS_Store
+Thumbs.db
